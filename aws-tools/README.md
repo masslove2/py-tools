@@ -1,4 +1,4 @@
-* prepare-mfa.py
+# prepare-mfa.py
 The script uses your AWS credentials to get MFA temporary creds (AccessKeyId, SecretAccessKey, Session_Token) and,
 then, stores them to another profile in your credentials file
 
